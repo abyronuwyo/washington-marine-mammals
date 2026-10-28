@@ -1,0 +1,4310 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.905906789566,
+          47.0662926763885
+        ]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.010926803731,
+          47.0691654098336
+        ]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.919112736606,
+          47.0714916858046
+        ]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.96367201607,
+          47.09273249065
+        ]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.700684398256,
+          47.1001904911434
+        ]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.958735902941,
+          47.0964496914921
+        ]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.983610531636,
+          47.0972432356638
+        ]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.019891341683,
+          47.1329007156553
+        ]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.004139724536,
+          47.1339544223081
+        ]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.839385675902,
+          47.1384992498569
+        ]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.974232933045,
+          47.1475873895609
+        ]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.968332029301,
+          47.1496419042085
+        ]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.695723208656,
+          47.1889086897942
+        ]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661491510569,
+          47.2156344793919
+        ]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.084430333452,
+          47.210628751779
+        ]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.046327638499,
+          47.2275130925887
+        ]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.711487955579,
+          47.2379760939101
+        ]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.865177455756,
+          47.2460801337566
+        ]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.411137088343,
+          47.2892190307196
+        ]
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.685944198779,
+          47.2906699870535
+        ]
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.686497010326,
+          47.3221066991132
+        ]
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.661709852387,
+          47.335944651159
+        ]
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.123910443077,
+          47.3412072220441
+        ]
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.118012089651,
+          47.3426242409977
+        ]
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.896037321136,
+          47.4022464865579
+        ]
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.889823055376,
+          47.4072486420675
+        ]
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.873078992978,
+          47.4173016440183
+        ]
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.048909788291,
+          47.5284751614453
+        ]
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.037658351628,
+          47.5450501674668
+        ]
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.682864603305,
+          47.5906957448334
+        ]
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480550768238,
+          47.5945663895874
+        ]
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.933687122353,
+          47.6486605118049
+        ]
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.932516682217,
+          47.6508247231102
+        ]
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.897150614047,
+          47.6857364067529
+        ]
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89545985802,
+          47.6894520591747
+        ]
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.648132761895,
+          47.730618876706
+        ]
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.858586556043,
+          47.7368655585374
+        ]
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.851187639697,
+          47.7922747088898
+        ]
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.852223016334,
+          47.8142141205573
+        ]
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.823491180811,
+          47.8188264944756
+        ]
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.859220738786,
+          47.8237366537066
+        ]
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.583017446075,
+          47.8333194179408
+        ]
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.582987522294,
+          47.8396898971178
+        ]
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.810300013752,
+          47.8475332608742
+        ]
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.654773870247,
+          47.9266733763134
+        ]
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.667274118767,
+          47.9492479430287
+        ]
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.671908956712,
+          47.962322534501
+        ]
+      },
+      "properties": {
+        "OBJECTID": 71,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.321182917437,
+          48.0206491551282
+        ]
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.206959188876,
+          48.0433019802714
+        ]
+      },
+      "properties": {
+        "OBJECTID": 79,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679985536955,
+          48.0475314111325
+        ]
+      },
+      "properties": {
+        "OBJECTID": 80,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.872674127669,
+          48.0477185655078
+        ]
+      },
+      "properties": {
+        "OBJECTID": 81,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.686478090908,
+          48.0779475998022
+        ]
+      },
+      "properties": {
+        "OBJECTID": 82,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.041405270492,
+          48.078812809966
+        ]
+      },
+      "properties": {
+        "OBJECTID": 83,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.734395921487,
+          48.0883750096385
+        ]
+      },
+      "properties": {
+        "OBJECTID": 84,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.527306161772,
+          48.0995385519738
+        ]
+      },
+      "properties": {
+        "OBJECTID": 85,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.946302298636,
+          48.1187667958773
+        ]
+      },
+      "properties": {
+        "OBJECTID": 86,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.061129873833,
+          48.1188294800205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 87,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90911932043,
+          48.1269140942377
+        ]
+      },
+      "properties": {
+        "OBJECTID": 88,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.412405728774,
+          48.1176543175744
+        ]
+      },
+      "properties": {
+        "OBJECTID": 89,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.458908920292,
+          48.1366693465205
+        ]
+      },
+      "properties": {
+        "OBJECTID": 90,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.149037323196,
+          48.1607581386455
+        ]
+      },
+      "properties": {
+        "OBJECTID": 91,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.156905563463,
+          48.1606278482049
+        ]
+      },
+      "properties": {
+        "OBJECTID": 92,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.144010579038,
+          48.1673172939754
+        ]
+      },
+      "properties": {
+        "OBJECTID": 93,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.662187147121,
+          48.1598370497075
+        ]
+      },
+      "properties": {
+        "OBJECTID": 94,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.668441958341,
+          48.1619256864539
+        ]
+      },
+      "properties": {
+        "OBJECTID": 95,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.832692886635,
+          48.1600713769356
+        ]
+      },
+      "properties": {
+        "OBJECTID": 96,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.681284498221,
+          48.1639243004483
+        ]
+      },
+      "properties": {
+        "OBJECTID": 97,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.690172259861,
+          48.164040264597
+        ]
+      },
+      "properties": {
+        "OBJECTID": 98,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.879538546481,
+          48.1633722509673
+        ]
+      },
+      "properties": {
+        "OBJECTID": 99,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.709741634321,
+          48.1677593398314
+        ]
+      },
+      "properties": {
+        "OBJECTID": 100,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.919076793276,
+          48.162426141037
+        ]
+      },
+      "properties": {
+        "OBJECTID": 101,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.100936451894,
+          48.1843172677261
+        ]
+      },
+      "properties": {
+        "OBJECTID": 102,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.389947014771,
+          48.2003326266707
+        ]
+      },
+      "properties": {
+        "OBJECTID": 103,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.005305445883,
+          48.1729084147096
+        ]
+      },
+      "properties": {
+        "OBJECTID": 104,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.025891241628,
+          48.1758203055035
+        ]
+      },
+      "properties": {
+        "OBJECTID": 105,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.397069029023,
+          48.2095800624406
+        ]
+      },
+      "properties": {
+        "OBJECTID": 106,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.044271390382,
+          48.1780989729465
+        ]
+      },
+      "properties": {
+        "OBJECTID": 107,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.432381821706,
+          48.2219057567961
+        ]
+      },
+      "properties": {
+        "OBJECTID": 108,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.088880045746,
+          48.1975553592497
+        ]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.10226408469,
+          48.2176149761298
+        ]
+      },
+      "properties": {
+        "OBJECTID": 110,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.11897130089,
+          48.2214107450391
+        ]
+      },
+      "properties": {
+        "OBJECTID": 112,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.139033187484,
+          48.2272129708897
+        ]
+      },
+      "properties": {
+        "OBJECTID": 113,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.62412348211,
+          48.2677488163871
+        ]
+      },
+      "properties": {
+        "OBJECTID": 114,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.443723391732,
+          48.2714441101144
+        ]
+      },
+      "properties": {
+        "OBJECTID": 115,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.385082302436,
+          48.2846107084621
+        ]
+      },
+      "properties": {
+        "OBJECTID": 116,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.404855611533,
+          48.2847943085947
+        ]
+      },
+      "properties": {
+        "OBJECTID": 117,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.20753081486,
+          48.2502999214418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 118,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.404155770926,
+          48.2920127160889
+        ]
+      },
+      "properties": {
+        "OBJECTID": 119,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.225103493157,
+          48.2571981086878
+        ]
+      },
+      "properties": {
+        "OBJECTID": 120,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.410052924203,
+          48.2970182482805
+        ]
+      },
+      "properties": {
+        "OBJECTID": 121,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.387310335444,
+          48.2974968548006
+        ]
+      },
+      "properties": {
+        "OBJECTID": 123,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.235116701914,
+          48.2620152490756
+        ]
+      },
+      "properties": {
+        "OBJECTID": 124,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.32593764556,
+          48.2743916108262
+        ]
+      },
+      "properties": {
+        "OBJECTID": 125,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.334190345006,
+          48.2760613299446
+        ]
+      },
+      "properties": {
+        "OBJECTID": 126,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.341920064158,
+          48.2788702574215
+        ]
+      },
+      "properties": {
+        "OBJECTID": 127,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.838017301875,
+          48.3178647967324
+        ]
+      },
+      "properties": {
+        "OBJECTID": 128,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.836271230287,
+          48.3200423385683
+        ]
+      },
+      "properties": {
+        "OBJECTID": 129,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.824237637693,
+          48.3219750580461
+        ]
+      },
+      "properties": {
+        "OBJECTID": 130,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.81745033841,
+          48.3240895731034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 131,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.413968090455,
+          48.3010472863059
+        ]
+      },
+      "properties": {
+        "OBJECTID": 132,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.421088423061,
+          48.3048474433308
+        ]
+      },
+      "properties": {
+        "OBJECTID": 133,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.522866880776,
+          48.3577267947839
+        ]
+      },
+      "properties": {
+        "OBJECTID": 134,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.563065968717,
+          48.3741784300454
+        ]
+      },
+      "properties": {
+        "OBJECTID": 135,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.694107685756,
+          48.3397163669758
+        ]
+      },
+      "properties": {
+        "OBJECTID": 136,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.532963813536,
+          48.3525297054776
+        ]
+      },
+      "properties": {
+        "OBJECTID": 139,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.545286420208,
+          48.3590441443679
+        ]
+      },
+      "properties": {
+        "OBJECTID": 140,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.547017760323,
+          48.3616975921006
+        ]
+      },
+      "properties": {
+        "OBJECTID": 141,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.821896312754,
+          48.4143135452811
+        ]
+      },
+      "properties": {
+        "OBJECTID": 142,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.848139832008,
+          48.4183203261733
+        ]
+      },
+      "properties": {
+        "OBJECTID": 143,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.729327912439,
+          48.3701968452815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 144,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.88593283097,
+          48.4184318995599
+        ]
+      },
+      "properties": {
+        "OBJECTID": 146,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.856427763379,
+          48.4195338188488
+        ]
+      },
+      "properties": {
+        "OBJECTID": 147,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.867864000564,
+          48.4195078990594
+        ]
+      },
+      "properties": {
+        "OBJECTID": 148,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.891590112507,
+          48.4200227999138
+        ]
+      },
+      "properties": {
+        "OBJECTID": 149,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.821796796488,
+          48.4214214297273
+        ]
+      },
+      "properties": {
+        "OBJECTID": 150,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 151,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.849568615044,
+          48.422114477424
+        ]
+      },
+      "properties": {
+        "OBJECTID": 151,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.593060923686,
+          48.3819665965247
+        ]
+      },
+      "properties": {
+        "OBJECTID": 152,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.889670245658,
+          48.4273996133163
+        ]
+      },
+      "properties": {
+        "OBJECTID": 153,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.558712937666,
+          48.4406577684569
+        ]
+      },
+      "properties": {
+        "OBJECTID": 155,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91225237824,
+          48.4352441994521
+        ]
+      },
+      "properties": {
+        "OBJECTID": 156,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.914835037377,
+          48.4358693358654
+        ]
+      },
+      "properties": {
+        "OBJECTID": 157,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.906817029087,
+          48.4379821278444
+        ]
+      },
+      "properties": {
+        "OBJECTID": 158,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.926700589317,
+          48.4377190923977
+        ]
+      },
+      "properties": {
+        "OBJECTID": 159,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91761722222,
+          48.4384324553893
+        ]
+      },
+      "properties": {
+        "OBJECTID": 160,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 164,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93203982143,
+          48.4389294884034
+        ]
+      },
+      "properties": {
+        "OBJECTID": 164,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 166,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.902370999946,
+          48.4407682606474
+        ]
+      },
+      "properties": {
+        "OBJECTID": 166,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.923049685984,
+          48.4434056368046
+        ]
+      },
+      "properties": {
+        "OBJECTID": 167,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 168,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.705923554452,
+          48.4497553278895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 168,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.942329245967,
+          48.4472045002865
+        ]
+      },
+      "properties": {
+        "OBJECTID": 169,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 170,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.793262083678,
+          48.4503774198193
+        ]
+      },
+      "properties": {
+        "OBJECTID": 170,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 171,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.930061709615,
+          48.4496345336365
+        ]
+      },
+      "properties": {
+        "OBJECTID": 171,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 172,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.921415350445,
+          48.4521606569388
+        ]
+      },
+      "properties": {
+        "OBJECTID": 172,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 173,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.932056458229,
+          48.4557570643984
+        ]
+      },
+      "properties": {
+        "OBJECTID": 173,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94309431145,
+          48.4587920200372
+        ]
+      },
+      "properties": {
+        "OBJECTID": 174,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.957497013875,
+          48.4586046151879
+        ]
+      },
+      "properties": {
+        "OBJECTID": 175,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.036232210538,
+          48.4581858836455
+        ]
+      },
+      "properties": {
+        "OBJECTID": 176,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 177,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.844675037144,
+          48.4617122608283
+        ]
+      },
+      "properties": {
+        "OBJECTID": 177,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 178,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.516876574,
+          48.4681591790337
+        ]
+      },
+      "properties": {
+        "OBJECTID": 178,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 179,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.713014996341,
+          48.467402697613
+        ]
+      },
+      "properties": {
+        "OBJECTID": 179,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 180,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.515872226969,
+          48.4726950381622
+        ]
+      },
+      "properties": {
+        "OBJECTID": 180,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.490676764971,
+          48.4756907167273
+        ]
+      },
+      "properties": {
+        "OBJECTID": 181,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.484445417746,
+          48.4758519881917
+        ]
+      },
+      "properties": {
+        "OBJECTID": 182,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 183,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.970582896586,
+          48.4699228862455
+        ]
+      },
+      "properties": {
+        "OBJECTID": 183,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.997093835317,
+          48.4712890349076
+        ]
+      },
+      "properties": {
+        "OBJECTID": 184,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.487851222941,
+          48.4804205733775
+        ]
+      },
+      "properties": {
+        "OBJECTID": 185,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.833494277232,
+          48.4750752833622
+        ]
+      },
+      "properties": {
+        "OBJECTID": 186,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 187,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.947482943634,
+          48.4761213316246
+        ]
+      },
+      "properties": {
+        "OBJECTID": 187,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.514618081815,
+          48.483621307875
+        ]
+      },
+      "properties": {
+        "OBJECTID": 188,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 189,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5437613125,
+          48.4848428141494
+        ]
+      },
+      "properties": {
+        "OBJECTID": 189,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 190,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.540453870134,
+          48.4858487359521
+        ]
+      },
+      "properties": {
+        "OBJECTID": 190,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 191,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.713266670147,
+          48.483623257326
+        ]
+      },
+      "properties": {
+        "OBJECTID": 191,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 192,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.000165082747,
+          48.47864465485
+        ]
+      },
+      "properties": {
+        "OBJECTID": 192,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 193,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.762238519202,
+          48.4847877729289
+        ]
+      },
+      "properties": {
+        "OBJECTID": 193,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 194,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.761521423755,
+          48.4858457261652
+        ]
+      },
+      "properties": {
+        "OBJECTID": 194,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 195,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.077677337237,
+          48.4809936335434
+        ]
+      },
+      "properties": {
+        "OBJECTID": 195,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 196,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.760711964429,
+          48.4869856057151
+        ]
+      },
+      "properties": {
+        "OBJECTID": 196,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.007994761034,
+          48.4846866960598
+        ]
+      },
+      "properties": {
+        "OBJECTID": 197,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 198,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.752797040513,
+          48.493012633501
+        ]
+      },
+      "properties": {
+        "OBJECTID": 198,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 199,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.600344286022,
+          48.4955332657129
+        ]
+      },
+      "properties": {
+        "OBJECTID": 199,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 200,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.585584447576,
+          48.4979835331291
+        ]
+      },
+      "properties": {
+        "OBJECTID": 200,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.863218467277,
+          48.4954977081846
+        ]
+      },
+      "properties": {
+        "OBJECTID": 201,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 202,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.008240137651,
+          48.5047898448768
+        ]
+      },
+      "properties": {
+        "OBJECTID": 202,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 203,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.017797170228,
+          48.509757239577
+        ]
+      },
+      "properties": {
+        "OBJECTID": 203,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.496656124877,
+          48.5200371785714
+        ]
+      },
+      "properties": {
+        "OBJECTID": 204,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.983643304873,
+          48.5137402879758
+        ]
+      },
+      "properties": {
+        "OBJECTID": 205,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 206,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.981608932469,
+          48.5146435571537
+        ]
+      },
+      "properties": {
+        "OBJECTID": 206,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 207,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97768666875,
+          48.5178503501892
+        ]
+      },
+      "properties": {
+        "OBJECTID": 207,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.97071752081,
+          48.5208744521528
+        ]
+      },
+      "properties": {
+        "OBJECTID": 208,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 209,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.788609079102,
+          48.530960486942
+        ]
+      },
+      "properties": {
+        "OBJECTID": 209,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 210,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.967966123028,
+          48.5281331339579
+        ]
+      },
+      "properties": {
+        "OBJECTID": 210,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 211,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.514019167828,
+          48.5388811388856
+        ]
+      },
+      "properties": {
+        "OBJECTID": 211,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 212,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.782209700207,
+          48.5381289901734
+        ]
+      },
+      "properties": {
+        "OBJECTID": 212,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.964379065657,
+          48.5355412995499
+        ]
+      },
+      "properties": {
+        "OBJECTID": 213,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.823018961619,
+          48.5394164788514
+        ]
+      },
+      "properties": {
+        "OBJECTID": 214,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.765511367447,
+          48.546112737603
+        ]
+      },
+      "properties": {
+        "OBJECTID": 215,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.853181713677,
+          48.5461578051416
+        ]
+      },
+      "properties": {
+        "OBJECTID": 216,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.52156009165,
+          48.5567397404244
+        ]
+      },
+      "properties": {
+        "OBJECTID": 217,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.855485745057,
+          48.5530766901115
+        ]
+      },
+      "properties": {
+        "OBJECTID": 218,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.470275930545,
+          48.5593600800258
+        ]
+      },
+      "properties": {
+        "OBJECTID": 219,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.969131067272,
+          48.551480241102
+        ]
+      },
+      "properties": {
+        "OBJECTID": 220,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.246654076763,
+          48.5559000976097
+        ]
+      },
+      "properties": {
+        "OBJECTID": 221,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4610826932,
+          48.5722243838146
+        ]
+      },
+      "properties": {
+        "OBJECTID": 222,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.984856370968,
+          48.5663284845172
+        ]
+      },
+      "properties": {
+        "OBJECTID": 223,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.998578139627,
+          48.5782832846943
+        ]
+      },
+      "properties": {
+        "OBJECTID": 224,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.936778635776,
+          48.5851704573377
+        ]
+      },
+      "properties": {
+        "OBJECTID": 225,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.800613715402,
+          48.5882221157021
+        ]
+      },
+      "properties": {
+        "OBJECTID": 226,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.171103108644,
+          48.5821208432358
+        ]
+      },
+      "properties": {
+        "OBJECTID": 227,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.940171076734,
+          48.5867604588575
+        ]
+      },
+      "properties": {
+        "OBJECTID": 228,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.679483588917,
+          48.5922671467526
+        ]
+      },
+      "properties": {
+        "OBJECTID": 229,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.180658574559,
+          48.5833146082101
+        ]
+      },
+      "properties": {
+        "OBJECTID": 230,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.007595176023,
+          48.5868294961451
+        ]
+      },
+      "properties": {
+        "OBJECTID": 231,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.02012982912,
+          48.5887146338321
+        ]
+      },
+      "properties": {
+        "OBJECTID": 232,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.875214239899,
+          48.5915109717053
+        ]
+      },
+      "properties": {
+        "OBJECTID": 233,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.90245816258,
+          48.591331032254
+        ]
+      },
+      "properties": {
+        "OBJECTID": 234,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.025635465155,
+          48.5891274514931
+        ]
+      },
+      "properties": {
+        "OBJECTID": 235,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.018577067795,
+          48.5909382728701
+        ]
+      },
+      "properties": {
+        "OBJECTID": 236,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.034221066771,
+          48.5908345877717
+        ]
+      },
+      "properties": {
+        "OBJECTID": 237,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 238,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.023036572563,
+          48.5940704901077
+        ]
+      },
+      "properties": {
+        "OBJECTID": 238,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 239,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.98065199313,
+          48.5959980251441
+        ]
+      },
+      "properties": {
+        "OBJECTID": 239,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01486934063,
+          48.5981439589576
+        ]
+      },
+      "properties": {
+        "OBJECTID": 240,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 241,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.170375060937,
+          48.5975581196582
+        ]
+      },
+      "properties": {
+        "OBJECTID": 241,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 242,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.099121101334,
+          48.6006972464993
+        ]
+      },
+      "properties": {
+        "OBJECTID": 242,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 243,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.093444119742,
+          48.6031182210324
+        ]
+      },
+      "properties": {
+        "OBJECTID": 243,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.017514562036,
+          48.6049780040619
+        ]
+      },
+      "properties": {
+        "OBJECTID": 244,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 245,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.658206128132,
+          48.6127469967393
+        ]
+      },
+      "properties": {
+        "OBJECTID": 245,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 246,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.612271211761,
+          48.6168273924651
+        ]
+      },
+      "properties": {
+        "OBJECTID": 246,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 247,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.720292703903,
+          48.6161417967644
+        ]
+      },
+      "properties": {
+        "OBJECTID": 247,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 248,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.037345564534,
+          48.6120981000484
+        ]
+      },
+      "properties": {
+        "OBJECTID": 248,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 249,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.86504432094,
+          48.6155533191365
+        ]
+      },
+      "properties": {
+        "OBJECTID": 249,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 250,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.729935011754,
+          48.6238042757879
+        ]
+      },
+      "properties": {
+        "OBJECTID": 250,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 251,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.167474329917,
+          48.6184027564538
+        ]
+      },
+      "properties": {
+        "OBJECTID": 251,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.181573346979,
+          48.6197206731452
+        ]
+      },
+      "properties": {
+        "OBJECTID": 252,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.622336687196,
+          48.6324346403604
+        ]
+      },
+      "properties": {
+        "OBJECTID": 253,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 254,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.160897986505,
+          48.6229111202819
+        ]
+      },
+      "properties": {
+        "OBJECTID": 254,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 255,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.184802953021,
+          48.6242418381695
+        ]
+      },
+      "properties": {
+        "OBJECTID": 255,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 256,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.690552290285,
+          48.6349041083004
+        ]
+      },
+      "properties": {
+        "OBJECTID": 256,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 257,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.758788476472,
+          48.6337947353843
+        ]
+      },
+      "properties": {
+        "OBJECTID": 257,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 258,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.75204674513,
+          48.6400018249029
+        ]
+      },
+      "properties": {
+        "OBJECTID": 258,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.577944677632,
+          48.6436556395901
+        ]
+      },
+      "properties": {
+        "OBJECTID": 259,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 260,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74638580206,
+          48.642050515064
+        ]
+      },
+      "properties": {
+        "OBJECTID": 260,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 261,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.137102036836,
+          48.6382964275194
+        ]
+      },
+      "properties": {
+        "OBJECTID": 261,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.139796505683,
+          48.6393721147856
+        ]
+      },
+      "properties": {
+        "OBJECTID": 262,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.152393467725,
+          48.6399604417497
+        ]
+      },
+      "properties": {
+        "OBJECTID": 263,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 264,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.157124835936,
+          48.6399596932246
+        ]
+      },
+      "properties": {
+        "OBJECTID": 264,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 265,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.143910014439,
+          48.6411285257217
+        ]
+      },
+      "properties": {
+        "OBJECTID": 265,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.496761473903,
+          48.6534505137118
+        ]
+      },
+      "properties": {
+        "OBJECTID": 266,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 267,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.082647295292,
+          48.6449932712128
+        ]
+      },
+      "properties": {
+        "OBJECTID": 267,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.087134724191,
+          48.6454055772815
+        ]
+      },
+      "properties": {
+        "OBJECTID": 268,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 269,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.078024175869,
+          48.6480318000134
+        ]
+      },
+      "properties": {
+        "OBJECTID": 269,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.881676558357,
+          48.6524006124127
+        ]
+      },
+      "properties": {
+        "OBJECTID": 270,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 271,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.125216087749,
+          48.647946120289
+        ]
+      },
+      "properties": {
+        "OBJECTID": 271,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 272,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.129183789154,
+          48.6480455686519
+        ]
+      },
+      "properties": {
+        "OBJECTID": 272,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 273,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.126369241605,
+          48.6481543329893
+        ]
+      },
+      "properties": {
+        "OBJECTID": 273,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 274,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.089775809754,
+          48.6510190661192
+        ]
+      },
+      "properties": {
+        "OBJECTID": 274,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 275,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.135423162826,
+          48.6502092416118
+        ]
+      },
+      "properties": {
+        "OBJECTID": 275,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.909322511263,
+          48.6567935020256
+        ]
+      },
+      "properties": {
+        "OBJECTID": 276,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.142933152263,
+          48.6534578889548
+        ]
+      },
+      "properties": {
+        "OBJECTID": 277,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 278,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.133348665374,
+          48.654148014771
+        ]
+      },
+      "properties": {
+        "OBJECTID": 278,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 279,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.146725000366,
+          48.6546899488639
+        ]
+      },
+      "properties": {
+        "OBJECTID": 279,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.131077600368,
+          48.6561210247231
+        ]
+      },
+      "properties": {
+        "OBJECTID": 280,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 281,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.666951571477,
+          48.6704934479072
+        ]
+      },
+      "properties": {
+        "OBJECTID": 281,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.168589718598,
+          48.6631426334667
+        ]
+      },
+      "properties": {
+        "OBJECTID": 282,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.070364735515,
+          48.6666299021921
+        ]
+      },
+      "properties": {
+        "OBJECTID": 283,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.071505271634,
+          48.6679647287056
+        ]
+      },
+      "properties": {
+        "OBJECTID": 284,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 285,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.073256640587,
+          48.6695179396176
+        ]
+      },
+      "properties": {
+        "OBJECTID": 285,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.075099459832,
+          48.670972531419
+        ]
+      },
+      "properties": {
+        "OBJECTID": 286,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 287,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.502181531934,
+          48.6829766510485
+        ]
+      },
+      "properties": {
+        "OBJECTID": 287,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 288,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.184699714137,
+          48.6778672465334
+        ]
+      },
+      "properties": {
+        "OBJECTID": 288,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.759441443885,
+          48.6898062422898
+        ]
+      },
+      "properties": {
+        "OBJECTID": 289,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 290,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.760248836188,
+          48.6916051072903
+        ]
+      },
+      "properties": {
+        "OBJECTID": 290,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 291,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.75773997455,
+          48.6933161487921
+        ]
+      },
+      "properties": {
+        "OBJECTID": 291,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 292,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.951874296815,
+          48.6993210878726
+        ]
+      },
+      "properties": {
+        "OBJECTID": 292,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 293,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.775183414923,
+          48.7036727211744
+        ]
+      },
+      "properties": {
+        "OBJECTID": 293,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 294,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.766044266938,
+          48.7082089851018
+        ]
+      },
+      "properties": {
+        "OBJECTID": 294,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 295,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.950974528955,
+          48.7120952047654
+        ]
+      },
+      "properties": {
+        "OBJECTID": 295,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 296,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.508359930659,
+          48.7236569465799
+        ]
+      },
+      "properties": {
+        "OBJECTID": 296,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 297,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.631922230504,
+          48.7267299348179
+        ]
+      },
+      "properties": {
+        "OBJECTID": 297,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.894130502317,
+          48.7258717614418
+        ]
+      },
+      "properties": {
+        "OBJECTID": 298,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 299,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.500686738894,
+          48.7352327229248
+        ]
+      },
+      "properties": {
+        "OBJECTID": 299,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 300,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.49825550068,
+          48.7378245376158
+        ]
+      },
+      "properties": {
+        "OBJECTID": 300,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 301,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.014432260837,
+          48.7296019923321
+        ]
+      },
+      "properties": {
+        "OBJECTID": 301,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 302,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.021645519668,
+          48.7302827134464
+        ]
+      },
+      "properties": {
+        "OBJECTID": 302,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 303,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.02963054721,
+          48.7330336317498
+        ]
+      },
+      "properties": {
+        "OBJECTID": 303,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 304,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.038934478558,
+          48.7328802941918
+        ]
+      },
+      "properties": {
+        "OBJECTID": 304,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 305,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.035314601238,
+          48.73324376513
+        ]
+      },
+      "properties": {
+        "OBJECTID": 305,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 306,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.817221941749,
+          48.7437849196046
+        ]
+      },
+      "properties": {
+        "OBJECTID": 306,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 307,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.827182974558,
+          48.7438122143993
+        ]
+      },
+      "properties": {
+        "OBJECTID": 307,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.823017241345,
+          48.7450094749623
+        ]
+      },
+      "properties": {
+        "OBJECTID": 308,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.821570617768,
+          48.7454398043429
+        ]
+      },
+      "properties": {
+        "OBJECTID": 309,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 310,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.717310175887,
+          48.7481383902945
+        ]
+      },
+      "properties": {
+        "OBJECTID": 310,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.835063459761,
+          48.7492163924083
+        ]
+      },
+      "properties": {
+        "OBJECTID": 311,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 312,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.882316767897,
+          48.7527548311546
+        ]
+      },
+      "properties": {
+        "OBJECTID": 312,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 313,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.920066526452,
+          48.7560472065448
+        ]
+      },
+      "properties": {
+        "OBJECTID": 313,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.889889254026,
+          48.7574566210515
+        ]
+      },
+      "properties": {
+        "OBJECTID": 314,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 315,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.877745297111,
+          48.7626255685452
+        ]
+      },
+      "properties": {
+        "OBJECTID": 315,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 316,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.599703612951,
+          48.7679652057887
+        ]
+      },
+      "properties": {
+        "OBJECTID": 316,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 317,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.878685499939,
+          48.7697116308139
+        ]
+      },
+      "properties": {
+        "OBJECTID": 317,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.902830246567,
+          48.7706904311047
+        ]
+      },
+      "properties": {
+        "OBJECTID": 318,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 319,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.888108919796,
+          48.7757412927791
+        ]
+      },
+      "properties": {
+        "OBJECTID": 319,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.684902908532,
+          48.783054293694
+        ]
+      },
+      "properties": {
+        "OBJECTID": 320,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.969406757537,
+          48.7888777538226
+        ]
+      },
+      "properties": {
+        "OBJECTID": 321,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.785530038787,
+          48.8839333052364
+        ]
+      },
+      "properties": {
+        "OBJECTID": 322,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.821902797692,
+          48.9484411385895
+        ]
+      },
+      "properties": {
+        "OBJECTID": 323,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.734618145824,
+          48.9714133466192
+        ]
+      },
+      "properties": {
+        "OBJECTID": 324,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 325,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.752410844891,
+          48.9787058272405
+        ]
+      },
+      "properties": {
+        "OBJECTID": 325,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 326,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.020176233392,
+          48.9742676767392
+        ]
+      },
+      "properties": {
+        "OBJECTID": 326,
+        "biofile_NAME": "Harbor seal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 327,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.774864851662,
+          48.9849861986193
+        ]
+      },
+      "properties": {
+        "OBJECTID": 327,
+        "biofile_NAME": "Harbor seal"
+      }
+    }
+  ]
+}

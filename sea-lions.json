@@ -1,0 +1,515 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.697654047527,
+          47.1137890722555
+        ]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.701978127673,
+          47.1922357819699
+        ]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.605412479345,
+          47.2022767506602
+        ]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.643116511857,
+          47.2183604550007
+        ]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.685518462013,
+          47.2376677965838
+        ]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.413833150802,
+          47.2916096527437
+        ]
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.457129275008,
+          47.3234092292104
+        ]
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.353145512439,
+          47.3849624181612
+        ]
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403155344143,
+          47.4476905707036
+        ]
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.522652261576,
+          47.5676506518103
+        ]
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.45056712857,
+          47.575519217411
+        ]
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.53569390765,
+          47.5758459487868
+        ]
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.476858172296,
+          47.583444113061
+        ]
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438047335405,
+          47.6598695877301
+        ]
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.464619412576,
+          47.6616105664929
+        ]
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.412485254769,
+          47.6779485467961
+        ]
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.407524759567,
+          47.6849600605736
+        ]
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.408906184319,
+          47.6964127727882
+        ]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.437493158418,
+          47.764907247433
+        ]
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.383869628904,
+          47.8146402618845
+        ]
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.385444195934,
+          47.8970777402201
+        ]
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.436950605631,
+          47.9092185580891
+        ]
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.494378101521,
+          47.9244800482956
+        ]
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.603278529591,
+          47.9464500959559
+        ]
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.553307503311,
+          47.9660832593005
+        ]
+      },
+      "properties": {
+        "OBJECTID": 72,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.580157238058,
+          47.9659987571597
+        ]
+      },
+      "properties": {
+        "OBJECTID": 73,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.246278023958,
+          47.9804776466627
+        ]
+      },
+      "properties": {
+        "OBJECTID": 74,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.249716645509,
+          47.9906075398419
+        ]
+      },
+      "properties": {
+        "OBJECTID": 75,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.222597645247,
+          47.9930852568982
+        ]
+      },
+      "properties": {
+        "OBJECTID": 76,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.636907454529,
+          48.030875102951
+        ]
+      },
+      "properties": {
+        "OBJECTID": 78,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 154,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.601050475144,
+          48.38572862588
+        ]
+      },
+      "properties": {
+        "OBJECTID": 154,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 161,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.731895120553,
+          48.391593699622
+        ]
+      },
+      "properties": {
+        "OBJECTID": 161,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.740326618877,
+          48.3918941381868
+        ]
+      },
+      "properties": {
+        "OBJECTID": 163,
+        "biofile_NAME": "California sea lion"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.744202232185,
+          48.3925775277737
+        ]
+      },
+      "properties": {
+        "OBJECTID": 165,
+        "biofile_NAME": "California sea lion"
+      }
+    }
+  ]
+}

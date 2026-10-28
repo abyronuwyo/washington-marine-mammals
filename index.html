@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Washington Marine Mammal Map by Anthoney L Byron</title>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    header {
+      padding: 15px;
+      background-color: #164e63;
+      color: white;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0 0 8px;
+    }
+
+    #map {
+      height: 75vh;
+      width: 100%;
+    }
+
+    #analysis {
+      padding: 15px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>Washington Marine Mammal Distribution</h1>
+    <p>Comparing California Sea Lion and Harbor Seal Locations, by Anthoney L Byron</p>
+  </header>
+
+  <div id="map"></div>
+
+  <section id="analysis">
+    <h2>Species Comparison</h2>
+    <p id="results">loading...</p>
+  </section>
+
+  <!-- Leaflet JavaScript -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <!-- Our map code -->
+  <script src="script.js"></script>
+
+</body>
+</html>
